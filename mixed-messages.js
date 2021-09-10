@@ -66,4 +66,3 @@ for (let i=0; i<listOfQuotes.length; i++) {
 let randNum = Math.floor(Math.random() * quotes.length)
 
 console.log(quotes[randNum].quote + ' - ' + quotes[randNum].author);
-
